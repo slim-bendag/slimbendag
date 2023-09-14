@@ -8,7 +8,7 @@
     $('.navbar-collapse a').on('click',function(){
       $(".navbar-collapse").collapse('hide');
     });
-
+    /*
     $(function() {
       $('.hero-slides').vegas({
           slides: [
@@ -23,7 +23,7 @@
           animation: 'kenburns',
       });
     });
-    
+    */
     // CUSTOM LINK
     $('.smoothscroll').click(function(){
       var el = $(this).attr('href');
