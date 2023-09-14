@@ -534,7 +534,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-color: var(--dark-color);
+  background-color: #0fa7af;
   position: relative;
   overflow: hidden;
   min-height: 620px;
