@@ -951,34 +951,46 @@ Download buttons
   clear:both;
   font-size: medium;
 }
-#first {
-  height:90px;
-  width:300px;
-  float:left;
-}
 
 #img1 {
   height: 50px;
   width: 50px;
   margin-left:30%;
 }
+#first {
+  height:90px;
+  width:25%;
+  float:left;
+}
+
+
 
 #second {
   height:90px;
-  width:300px;
+  width:25%;
   float:left;
 }
 #third {
   height:90px;
-  width:300px;
+  width:25%;
   float:left;
 }
 
 #fourth {
   height:90px;
-  width:300px;
+  width:25%;
   float:left;
 }
+
+.wrapperfig {
+  display:flex;
+  max-width: 100%;
+}
+
+figcaption {
+  text-align: center;
+}
+
 
 /*---------------------------------------
   CUSTOM FORM               
