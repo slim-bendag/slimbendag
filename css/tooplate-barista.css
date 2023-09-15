@@ -299,6 +299,8 @@ strong {
   line-height: normal;
   transition: all 0.3s;
   padding: 12px 28px;
+  margin-right: 30px;
+	
 }
 
 .custom-btn:hover {
